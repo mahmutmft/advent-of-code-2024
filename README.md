@@ -32,7 +32,7 @@ Complete all 25 challenges while improving coding skills and learning new techni
 | Day   | Challenge Description | Status    |
 |-------|------------------------|-----------|
 | Day 01 | Historian Hysteria    | Completed |
-|--------------------------------------------|
+|-------|------------------------|-----------|
 | Day 02 | Red-Nosed Reports     | Completed |
 
 ---
