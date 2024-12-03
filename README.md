@@ -33,5 +33,6 @@ Complete all 25 challenges while improving coding skills and learning new techni
 |-------|------------------------|-----------|
 | Day 01 | Historian Hysteria    | Completed |
 | Day 02 | Red-Nosed Reports     | Completed |
+| Day 03 | Mull It Over          | Completed |
 
 ---
